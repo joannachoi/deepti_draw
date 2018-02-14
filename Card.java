@@ -1,10 +1,3 @@
-//Name: Joanna Choi 
-//VUnetid: choije
-//Email: joanna.e.choi@vanderbilt.edu
-//Honor statement: I have neither given or received any unauthorized aid on this assignment
-//Class: CS101, Vanderbilt University
-//Date: 11/19/14
-
 // Description: Represents a single playing card.
 
 import java.util.*;
